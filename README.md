@@ -1,3 +1,5 @@
+Educational fair use.
+
 # MEAN Web Development - Code Samples
 
 Annotated code samples from the [MEAN Web Development](http://amzn.com/1783983280) book.
